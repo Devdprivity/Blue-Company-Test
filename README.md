@@ -62,10 +62,11 @@ ng serve
 | Backend API | http://localhost:8000/api |
 
 ### Credenciales de Prueba
-```
-Email: admin@example.com
-Password: password
-```
+
+| Campo | Valor |
+|-------|-------|
+| **Email** | `admin@example.com` |
+| **Password** | `password` |
 
 ---
 
